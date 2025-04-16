@@ -4,6 +4,8 @@ This project provides a Python-based web scraper for collecting Major League Bas
 
 It supports both **individual player stats** and **team pitching stats**, across multiple seasons.
 
+website: https://www.mlb.com/stats/
+
 ---
 
 ## 📌 Features
